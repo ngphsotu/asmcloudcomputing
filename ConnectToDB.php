@@ -41,10 +41,10 @@
       <table class="table table-bordered table-striped">
         <thead>
           <tr>
-            <th>Student ID</th>
-            <th>Full Name</th>
+            <th>StudentID</th>
+            <th>Fullname</th>
             <th>Email</th>
-            <th>classname</th>
+            <th>Slassname</th>
           </tr>
         </thead>
         <tbody>
